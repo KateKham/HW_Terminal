@@ -85,8 +85,8 @@ eight
 nine
 ten
 eleven
-twelwe
-thriteen ;
+twelve
+thirteen ;
 ( или цикл на создание текстового файла со строками внутри)
 #!/bin/bash/
 for (( a=1; a<=13; a++ ))
